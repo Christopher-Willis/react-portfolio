@@ -60,7 +60,7 @@ class App extends Component {
             my time to help people freely (I love teaching). 
           </Typography>
 
-          
+
         </Grid>
       </Grid>
 
@@ -98,6 +98,7 @@ class App extends Component {
       </Grid>
       </div>
     );
+    
   }
 }
 
